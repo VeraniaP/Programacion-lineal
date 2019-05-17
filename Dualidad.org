@@ -32,3 +32,5 @@ Considere el siguiente ejemplo de Duelidad
 - Siguiente problema...
 
 * Teoremas
+  Demostraremos que el minimo del problema dual es igual al máximo del
+  problema primitivo.
